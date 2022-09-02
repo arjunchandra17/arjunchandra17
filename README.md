@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunchandra17
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently live in tangerang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
